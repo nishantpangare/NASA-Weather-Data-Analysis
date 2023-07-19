@@ -1,4 +1,4 @@
-# NASA-Weather-Data-Analysis
+# NASA-Climatology-Data-Analysis
 Interactive Power BI Dashboard which shows meaningful insights on NASA POWER Climatology Data.
 
 * Platform Used is: Power-BI
